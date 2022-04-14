@@ -24,9 +24,9 @@ for index in range(0, len(movies)):
     lista.append(data)
 
 
-#for movie in list:
+#for movie in lista:
 #   print(movie['movie_title'], '('+movie['year'] + ')')
 
 with open('filme.txt', 'w', encoding='utf-8') as f:
-    for item in lista:
-        f.write("%s\n" % item)
+     for item in lista:
+         f.write("%s\n" % item)

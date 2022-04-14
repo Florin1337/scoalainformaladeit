@@ -1,0 +1,250 @@
+{'movie_title': 'Închisoarea îngerilor', 'year': ''}
+{'movie_title': 'Nașul', 'year': ''}
+{'movie_title': 'Cavalerul negru', 'year': ''}
+{'movie_title': 'Nașul: Partea a II-a', 'year': ''}
+{'movie_title': '12 Oameni mânioşi', 'year': ''}
+{'movie_title': 'Lista lui Schindler', 'year': ''}
+{'movie_title': 'Stăpânul inelelor: Întoarcerea regelui', 'year': ''}
+{'movie_title': 'Pulp Fiction', 'year': ''}
+{'movie_title': 'Stăpânul inelelor: Frăția inelului', 'year': ''}
+{'movie_title': ' Cel bun, cel rău, cel urât', 'year': ''}
+{'movie_title': 'Forrest Gump', 'year': ''}
+{'movie_title': 'Fight Club - Sala de lupte', 'year': ''}
+{'movie_title': 'Începutul', 'year': ''}
+{'movie_title': 'Stăpânul inelelor: Cele două turnuri', 'year': ''}
+{'movie_title': 'Războiul stelelor - Episodul V: Imperiul contraatacă', 'year': ''}
+{'movie_title': 'Matrix', 'year': ''}
+{'movie_title': 'Băieți buni', 'year': ''}
+{'movie_title': 'Zbor deasupra unui cuib de cuci', 'year': ''}
+{'movie_title': 'Se7en', 'year': ''}
+{'movie_title': 'Cei șapte samurai', 'year': ''}
+{'movie_title': 'O viață minunată', 'year': ''}
+{'movie_title': 'Tăcerea mieilor', 'year': ''}
+{'movie_title': 'Orașul zeilor', 'year': ''}
+{'movie_title': 'Salvați soldatul Ryan', 'year': ''}
+{'movie_title': 'Viața e frumoasă', 'year': ''}
+{'movie_title': 'Culoarul morții', 'year': ''}
+{'movie_title': 'Războiul stelelor - Episodul IV: O nouă speranță', 'year': ''}
+{'movie_title': 'Interstellar: Călătorind prin univers', 'year': ''}
+{'movie_title': 'Terminatorul 2: Ziua judecății', 'year': ''}
+{'movie_title': 'Înapoi în viitor', 'year': ''}
+{'movie_title': 'Călătoria lui Chihiro', 'year': ''}
+{'movie_title': 'Psycho', 'year': ''}
+{'movie_title': 'Pianistul', 'year': ''}
+{'movie_title': 'Leon', 'year': ''}
+{'movie_title': 'Parazit', 'year': ''}
+{'movie_title': 'The Lion King', 'year': ''}
+{'movie_title': 'Povestea X a Americii', 'year': ''}
+{'movie_title': 'Gladiatorul', 'year': ''}
+{'movie_title': 'Suspecți de serviciu', 'year': ''}
+{'movie_title': 'Cârtița', 'year': ''}
+{'movie_title': 'Prestigiul', 'year': ''}
+{'movie_title': 'Casablanca', 'year': ''}
+{'movie_title': 'Whiplash', 'year': ''}
+{'movie_title': 'Invincibilii', 'year': ''}
+{'movie_title': 'Timpuri noi', 'year': ''}
+{'movie_title': 'Undeva, cândva în Vest', 'year': ''}
+{'movie_title': 'Harakiri', 'year': ''}
+{'movie_title': 'Cimitirul licuricilor', 'year': ''}
+{'movie_title': 'În spatele ferestrei', 'year': ''}
+{'movie_title': 'Alien', 'year': ''}
+{'movie_title': 'Luminile orașului', 'year': ''}
+{'movie_title': 'Cinema Paradiso', 'year': ''}
+{'movie_title': 'Memento', 'year': ''}
+{'movie_title': 'Apocalipsul acum', 'year': ''}
+{'movie_title': 'Indiana Jones și căutătorii arcei pierdute', 'year': ''}
+{'movie_title': 'Django dezlănțuit', 'year': ''}
+{'movie_title': 'WALL-E', 'year': ''}
+{'movie_title': 'Viețile altora', 'year': ''}
+{'movie_title': 'Bulevardul amurgului', 'year': ''}
+{'movie_title': 'Cărările gloriei', 'year': ''}
+{'movie_title': 'Strălucirea', 'year': ''}
+{'movie_title': 'Dictatorul', 'year': ''}
+{'movie_title': 'Martorul acuzării', 'year': ''}
+{'movie_title': 'Răzbunătorii: Războiul infinitului', 'year': ''}
+{'movie_title': 'Alien 2 - Misiune de pedeapsă', 'year': ''}
+{'movie_title': 'Frumusețe americană', 'year': ''}
+{'movie_title': 'Dr Strangelove sau cum am învățat să nu mă mai tem și să iubesc bomba', 'year': ''}
+{'movie_title': 'Cavalerul negru: Legenda renaște', 'year': ''}
+{'movie_title': 'Omul-Păianjen: În lumea păianjenului', 'year': ''}
+{'movie_title': 'Joker', 'year': ''}
+{'movie_title': 'Căinţă şi răzbunare', 'year': ''}
+{'movie_title': 'Inimă neînfricată', 'year': ''}
+{'movie_title': 'Amadeus', 'year': ''}
+{'movie_title': 'Povestea jucăriilor', 'year': ''}
+{'movie_title': 'Submarinul', 'year': ''}
+{'movie_title': 'Coco', 'year': ''}
+{'movie_title': 'Ticăloși fără glorie', 'year': ''}
+{'movie_title': 'Prințesa Mononoke', 'year': ''}
+{'movie_title': 'A fost odată în America', 'year': ''}
+{'movie_title': 'Răzbunătorii: Sfârșitul jocului', 'year': ''}
+{'movie_title': 'Good Will Hunting', 'year': ''}
+{'movie_title': 'Omul-Păianjen: Niciun Drum Spre Casă', 'year': ''}
+{'movie_title': 'Requiem pentru un vis', 'year': ''}
+{'movie_title': 'Povestea jucăriilor 3', 'year': ''}
+{'movie_title': 'Cântând în ploaie', 'year': ''}
+{'movie_title': 'Numele tău', 'year': ''}
+{'movie_title': 'Războiul stelelor - Episodul VI: Întoarcerea lui Jedi', 'year': ''}
+{'movie_title': '3 idioți', 'year': ''}
+{'movie_title': 'Odiseea spațială 2001', 'year': ''}
+{'movie_title': 'Profesioniștii crimei', 'year': ''}
+{'movie_title': 'Strălucirea eternă a minții neprihănite', 'year': ''}
+{'movie_title': 'Cerul și iadul', 'year': ''}
+{'movie_title': 'Cetățeanul Kane', 'year': ''}
+{'movie_title': 'Capernaum - Haos și speranță', 'year': ''}
+{'movie_title': 'Lawrence al Arabiei', 'year': ''}
+{'movie_title': 'M - Un oraș își caută ucigașul', 'year': ''}
+{'movie_title': 'La nord, prin nord-vest', 'year': ''}
+{'movie_title': 'Vânătoarea', 'year': ''}
+{'movie_title': 'Amețeala', 'year': ''}
+{'movie_title': ' Amélie', 'year': ''}
+{'movie_title': 'Portocala mecanică', 'year': ''}
+{'movie_title': 'Vino si vezi', 'year': ''}
+{'movie_title': 'Glonţ cu cămaşă metalică', 'year': ''}
+{'movie_title': 'Asigurare de moarte', 'year': ''}
+{'movie_title': 'Apartamentul', 'year': ''}
+{'movie_title': 'Scarface', 'year': ''}
+{'movie_title': 'Șoferul de taxi', 'year': ''}
+{'movie_title': 'Să ucizi o pasăre cântătoare', 'year': ''}
+{'movie_title': 'Cacealmaua', 'year': ''}
+{'movie_title': 'Hamilton', 'year': ''}
+{'movie_title': 'A trăi', 'year': ''}
+{'movie_title': 'LA Confidential', 'year': ''}
+{'movie_title': 'Deasupra tuturor', 'year': ''}
+{'movie_title': 'Obsesia', 'year': ''}
+{'movie_title': 'Metropolis', 'year': ''}
+{'movie_title': 'Unde dai și unde crapă', 'year': ''}
+{'movie_title': 'Nader și Simin, o despărțire', 'year': ''}
+{'movie_title': 'Greu de ucis', 'year': ''}
+{'movie_title': 'Indiana Jones și ultima cruciadă', 'year': ''}
+{'movie_title': 'Hoți de biciclete', 'year': ''}
+{'movie_title': 'Incendii', 'year': ''}
+{'movie_title': '1917: Speranță și moarte', 'year': ''}
+{'movie_title': 'Ca stelele pe Pământ', 'year': ''}
+{'movie_title': 'Ultimele zile ale lui Hitler', 'year': ''}
+{'movie_title': 'Pentru câțiva dolari în plus', 'year': ''}
+{'movie_title': 'Batman - Începuturi', 'year': ''}
+{'movie_title': 'Dangal', 'year': ''}
+{'movie_title': 'Piciul', 'year': ''}
+{'movie_title': 'Unora le place jazzul', 'year': ''}
+{'movie_title': 'The Father', 'year': ''}
+{'movie_title': 'Totul despre Eva', 'year': ''}
+{'movie_title': 'Green Book: O prietenie pe viață', 'year': ''}
+{'movie_title': 'Lupul de pe Wall Street', 'year': ''}
+{'movie_title': 'Procesul de la Nürnberg', 'year': ''}
+{'movie_title': 'Necruțătorul', 'year': ''}
+{'movie_title': 'Labirintul lui Pan', 'year': ''}
+{'movie_title': 'Casino', 'year': ''}
+{'movie_title': 'Haos', 'year': ''}
+{'movie_title': 'Batman', 'year': ''}
+{'movie_title': 'Monty Python și Sfântul Graal', 'year': ''}
+{'movie_title': 'O minte sclipitoare', 'year': ''}
+{'movie_title': 'Al șaselea simț', 'year': ''}
+{'movie_title': 'Va curge sânge', 'year': ''}
+{'movie_title': 'Garda de corp', 'year': ''}
+{'movie_title': 'Truman Show', 'year': ''}
+{'movie_title': 'Comoara din Sierra Madre', 'year': ''}
+{'movie_title': 'Rashomon', 'year': ''}
+{'movie_title': 'Marea evadare', 'year': ''}
+{'movie_title': 'Insula Shutter', 'year': ''}
+{'movie_title': 'Kill Bill: Volumul 1', 'year': ''}
+{'movie_title': 'Jurassic Park', 'year': ''}
+{'movie_title': 'Nu există țară pentru bătrâni', 'year': ''}
+{'movie_title': 'Omul elefant', 'year': ''}
+{'movie_title': 'Taurul furios', 'year': ''}
+{'movie_title': 'În căutarea lui Nemo', 'year': ''}
+{'movie_title': 'Cartierul chinezesc', 'year': ''}
+{'movie_title': 'Pe aripile vântului', 'year': ''}
+{'movie_title': 'V de la Vendetta', 'year': ''}
+{'movie_title': 'Întors pe dos', 'year': ''}
+{'movie_title': 'Jocuri, poturi și focuri de armă', 'year': ''}
+{'movie_title': 'Creatura', 'year': ''}
+{'movie_title': 'Cu C de la crimă', 'year': ''}
+{'movie_title': 'Secretul', 'year': ''}
+{'movie_title': 'Podul de pe râul Kwai', 'year': ''}
+{'movie_title': 'Castelul umblător al lui Howl', 'year': ''}
+{'movie_title': 'Trainspotting - Din viață scapă cine poate', 'year': ''}
+{'movie_title': 'Trei panouri publicitare lângă Ebbing, Missouri', 'year': ''}
+{'movie_title': 'Gran Torino', 'year': ''}
+{'movie_title': 'Războinicul', 'year': ''}
+{'movie_title': 'Fargo', 'year': ''}
+{'movie_title': 'Vecinul meu Totoro', 'year': ''}
+{'movie_title': 'Prizonieri', 'year': ''}
+{'movie_title': 'O fată de milioane', 'year': ''}
+{'movie_title': 'Goana după aur', 'year': ''}
+{'movie_title': 'Vânătorul de recompense', 'year': ''}
+{'movie_title': 'Pe chei', 'year': ''}
+{'movie_title': 'Prinde-mă! Dacă poți!', 'year': ''}
+{'movie_title': 'Al treilea om', 'year': ''}
+{'movie_title': 'Copiii paradisului', 'year': ''}
+{'movie_title': 'Mecanicul Generalei', 'year': ''}
+{'movie_title': 'Ben-Hur', 'year': ''}
+{'movie_title': 'Fragii sălbatici', 'year': ''}
+{'movie_title': '12 ani de sclavie', 'year': ''}
+{'movie_title': 'Fata dispărută', 'year': ''}
+{'movie_title': 'Vânătorul de cerbi', 'year': ''}
+{'movie_title': 'Înainte de răsărit', 'year': ''}
+{'movie_title': 'În numele tatălui', 'year': ''}
+{'movie_title': 'Harry Potter și Talismanele Morții: Partea a II-a', 'year': ''}
+{'movie_title': 'Domnul Smith merge la Washington', 'year': ''}
+{'movie_title': 'Hotel Grand Budapest', 'year': ''}
+{'movie_title': 'Salariul groazei', 'year': ''}
+{'movie_title': 'Sherlock junior', 'year': ''}
+{'movie_title': 'Camera', 'year': ''}
+{'movie_title': 'Barry Lyndon', 'year': ''}
+{'movie_title': 'Amintiri despre crime', 'year': ''}
+{'movie_title': 'A șaptea pecete', 'year': ''}
+{'movie_title': 'Fără armă în linia întâi', 'year': ''}
+{'movie_title': 'Povești trăsnite', 'year': ''}
+{'movie_title': 'Klaus', 'year': ''}
+{'movie_title': 'Marele Lebowski', 'year': ''}
+{'movie_title': 'Pather Panchali', 'year': ''}
+{'movie_title': 'Cum să îți dresezi dragonul', 'year': ''}
+{'movie_title': 'Mad Max: Drumul furiei', 'year': ''}
+{'movie_title': 'Mary și Max', 'year': ''}
+{'movie_title': "Patimile Ioanei d'Arc", 'year': ''}
+{'movie_title': 'Fălci', 'year': ''}
+{'movie_title': 'Compania monștrilor', 'year': ''}
+{'movie_title': 'Hotel Rwanda', 'year': ''}
+{'movie_title': 'Poveste din Tokyo', 'year': ''}
+{'movie_title': 'Cercul poeților dispăruți', 'year': ''}
+{'movie_title': 'Plutonul', 'year': ''}
+{'movie_title': 'Rocky', 'year': ''}
+{'movie_title': "Marea provocare: Le Mans '66", 'year': ''}
+{'movie_title': 'Prietenie', 'year': ''}
+{'movie_title': 'Executorul/Terminatorul', 'year': ''}
+{'movie_title': 'Rush: Rivalitate și adrenalină', 'year': ''}
+{'movie_title': 'În sălbăticie', 'year': ''}
+{'movie_title': 'Spotlight', 'year': ''}
+{'movie_title': 'Rețeaua', 'year': ''}
+{'movie_title': 'Vrăjitorul din Oz', 'year': ''}
+{'movie_title': 'Logan', 'year': ''}
+{'movie_title': 'Ziua cârtiței', 'year': ''}
+{'movie_title': 'Ratatouille', 'year': ''}
+{'movie_title': 'Exorcistul', 'year': ''}
+{'movie_title': 'Înainte de apus', 'year': ''}
+{'movie_title': 'Cei mai frumoși ani ai vieții noastre', 'year': ''}
+{'movie_title': 'Bătălia pentru Alger', 'year': ''}
+{'movie_title': 'Incredibilii', 'year': ''}
+{'movie_title': 'Rebecca', 'year': ''}
+{'movie_title': 'A fi sau a nu fi', 'year': ''}
+{'movie_title': 'Fructele mâniei', 'year': ''}
+{'movie_title': 'Luke, mână rece', 'year': ''}
+{'movie_title': 'Dersu Uzala', 'year': ''}
+{'movie_title': 'Iubiri și câini', 'year': ''}
+{'movie_title': 'Hachiko: Povestea unui câine', 'year': ''}
+{'movie_title': 'Tatăl meu și fiul meu', 'year': ''}
+{'movie_title': 'Cele 400 de lovituri', 'year': ''}
+{'movie_title': 'Viața lui Brian', 'year': ''}
+{'movie_title': 'Persona', 'year': ''}
+{'movie_title': 'Ura', 'year': ''}
+{'movie_title': 'Pirații din Caraibe: Blestemul Perlei Negre', 'year': ''}
+{'movie_title': 'S-a întâmplat într-o noapte', 'year': ''}
+{'movie_title': 'Sunetul muzicii', 'year': ''}
+{'movie_title': 'Gandhi', 'year': ''}
+{'movie_title': 'Slujnica', 'year': ''}
+{'movie_title': 'Aladdin', 'year': ''}
+{'movie_title': 'The Help', 'year': ''}
+{'movie_title': 'Frumoasa și Bestia', 'year': ''}
+{'movie_title': 'Dune: Part One', 'year': ''}
+{'movie_title': 'Du rififi chez les hommes', 'year': ''}
