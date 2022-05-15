@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <p>This is the homepage content. Website is developed with {{ framework_name }}.</p>
+    {% if employers %}
+        <ul>
+            {% for employer in employers %}
+                <li>{{ employer.name }} - {{ employer.id }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    <img src="{% static 'download.png' %}">
+{% endblock %}
